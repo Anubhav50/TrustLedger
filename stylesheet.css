@@ -126,6 +126,9 @@
     cursor:pointer;
     color:white;   
 }
+.block2 a{
+    text-decoration:none;
+}
 .box-1{
     height:300px;
     width:100%;
@@ -168,6 +171,14 @@
     font-weight: bold;
     margin-top:20px;
     border:none;
+    margin-left: 580px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.button1 a{
+    color:white;
+    text-decoration:none;
 }
 .button1:hover{
     cursor:pointer;
