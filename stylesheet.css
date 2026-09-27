@@ -527,3 +527,7 @@
 .click1, .click2:hover{
     cursor:pointer;
 }
+.click1 a{
+    text-decoration:none;
+    color:white;
+}
