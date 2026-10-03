@@ -15,12 +15,6 @@
     background-color:#040514;
     border-right:1px solid gray;
 }
-.box-2{
-    height:800px;
-    width:82%;
-    background-color: #040514;
-    border-left: 1px solid gray;
-}
 .part1{
     height:80px;
     width:100%;
@@ -183,6 +177,12 @@
     text-decoration:none;
     color:gray;
 }
+.box-2{
+    height:800px;
+    width:82%;
+    background-color: #040514;
+    border-left: 1px solid gray;
+}
 .part4{
     height:80px;
     width:100%;
@@ -260,201 +260,3 @@
     margin-left:10px;
    margin-top:5ox;
 }
-.part6{
-    height:450px;
-    width:100%;
-    background-color:#040514;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-}
-.content4{
-    height:96%;
-    width:90%;
-    background-color:#0B132B;
-    border:1px solid white;
-    border-radius:15px;
-}
-.content4-1{
-    font-size:1.2em;
-    font-weight:bold;
-    color:white;
-    padding-left:15px;
-    margin-top:5px;
-}
-.content4-2{
-    font-size:1em;
-    color:gray;
-    padding-left:15px;
-    margin-top:5px;
-}
-.table{
-    height:80%;
-    width:95%;
-    background-color:#0B132B;
-    margin-left:15px;
-    margin-top:10px;
-    color:white;
-    overflow-y:scroll;
-}
-.tableheader{
-    height:30px;
-    width:100%;
-    background-color:#0B132B;
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-    margin-top:8px;
-    margin-bottom:8px;
-}
-.tableheader p{
-    font-size: 0.8em;
-    font-weight: bold;
-    color:gray;
-    padding-left:50px;
-}
-.tableheader-1,.tableheader-2,.tableheader-3,.tableheader-4,.tableheader-5{
-    margin-left:50px; 
-}
-.tableheader-1:hover{
-    color:white;
-    cursor:pointer;
-}
-.tableheader-2:hover{
-    color:white;
-    cursor:pointer;
-}
-.tableheader-3:hover{
-    color:white;
-    cursor:pointer;
-}
-.tableheader-4:hover{
-    color:white;
-}
-.tableheader-5:hover{
-    color:white;
-}
-.tableheader-1{
-    width:23%;
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-}
-.tableheader-2{
-    width:23%;
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-}
-.tableheader-3{
-    width:23%;
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-}
-.tableheader-4{
-    width:23%;
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-}
-.tableheader-5{
-    width:23%;
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-}
-.tabledata{
-    height:30px;
-    width:100%;
-    background-color:#0B132B;
-    border-bottom:0.5px dotted gray;
-    display:flex;
-    align-items:center;
-    margin-top:8px;
-    margin-bottom:8px;
-}
-.tabledata p{
-    font-size: 0.8em;
-    font-weight: bold;
-    color:white;
-    padding-left:50px;
-}
-.tabledata-1,.tabledata-2,.tabledata-3,.tabledata-4,.tabledata-5{
-    margin-left:50px;   
-}
-.tabledata-1{
-    width:23%;
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-}
-.tabledata-2{
-    width:23%;
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-}
-.tabledata-3{
-    width:23%;
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-}
-.tabledata-4{
-    width:23%;
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-}
-.tabledata-5{
-    width:23%;
-    display:flex;
-    justify-content:flex-start;
-    align-items:center;
-}
-.part7{
-    height:150px;
-    width:100%;
-    background-color:#040514;
-    display:flex;
-    justify-content:space-evenly;
-    align-items:center;
-    border-top:1px solid gray;
-}
-.part7-1{
-    height:130px;
-    width:30%;
-    background-color:#0f1f3f;
-    border-radius:15px;
-}
-.part7-1 i{
-    font-size: 1.5em;
-    color:white;
-    margin-left:10px;
-    margin-top:05px;
-}
-.part7-1-1{
-    font-size: 1.2em;
-    font-weight:bold;
-    color:white;
-    margin-left:10px;
-}
-.part7-1-2{
-    font-size: 1em;
-    color:gray;
-    margin-left:10px;
-}
-.part7-1-3{
-    font-size: 1.2em;
-    font-weight:bold;
-    color:white;
-    margin-left:10px;
-}
-.part7-1-5{
-    font-size: 0.9em;
-    font-weight:bold;
-    color:gray;
-    margin-left:10px;
-}
-
