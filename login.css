@@ -361,3 +361,7 @@
     cursor:pointer;
     border:2px solid gray;
 }
+.top6 a{
+    text-decoration:none;
+    color:white;
+}

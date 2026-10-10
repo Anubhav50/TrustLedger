@@ -535,3 +535,63 @@
     text-decoration:none;
     color:white;
 }
+.platform6{
+    height:300px;
+    width:100%;
+    background-color:#040514;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+.platform6-1{
+    height:150px;
+    width:23%;
+}
+.platform6-1 i{
+    color:blue;
+    font-size:2em;
+    margin-left:5px;
+}
+.attach-1{
+    font-size:1.2em;
+    color:white;
+    font-weight:bold;
+    font-family:Arial;
+    margin-top:6px;
+    margin-left:5px;
+}
+.attach-2{
+    font-size:1em;
+    color:gray;
+    margin-left:5px;
+    margin-top:6px;
+}
+.platform6-2{
+    height:150px;
+    width:23%;
+    margin-left:10px;
+}
+.platform6-3{
+    height:150px;
+    width:23%;
+}
+.platform6-4{
+    height:150px;
+    width:23%;
+}
+.platform6-2 h3, .platform6-3 h3, .platform6-4 h3{
+    color:white;
+    font-size:1.2em;
+    margin-top:8px;
+    margin-left:5px;
+}
+.platform6-2 p, .platform6-3 p, .platform6-4 p{
+    font-size:1em;
+    color:gray;
+    margin-top:5px;
+    margin-left:5px;
+}
+.platform6-2 p:hover, .platform6-3 p:hover, .platform6-4 p:hover{
+    cursor:pointer;
+    color:white;
+}
