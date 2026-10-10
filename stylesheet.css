@@ -325,6 +325,9 @@
     align-items:flex-start;
     border-radius:15px;
   }
+  .pack1:hover{
+    cursor:pointer;
+  }
   .fea1{
     height:25px;
     width:25px;
@@ -594,4 +597,12 @@
 .platform6-2 p:hover, .platform6-3 p:hover, .platform6-4 p:hover{
     cursor:pointer;
     color:white;
+}
+.platform6-3 a{
+    text-decoration:none;
+    color:gray;
+}
+.platform6-4 a{
+    text-decoration:none;
+    color:gray;
 }
